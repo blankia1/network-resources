@@ -1,4 +1,5 @@
 sudo pip install netaddr
+sudo yum install jq -y
 
 # Docker in Production using AWS Network Resources Playbook
 
