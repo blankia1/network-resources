@@ -1,7 +1,7 @@
 ### Production environment settings
 
 # STS role and target account
-Sts.Role: arn:aws:iam::543279062384:role/admin
+Sts.Role: arn:aws:iam::003342916324:role/admin
 
 # VPCs
 Config.Vpcs:
