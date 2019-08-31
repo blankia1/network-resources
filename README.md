@@ -1,3 +1,5 @@
+sudo pip install netaddr
+
 # Docker in Production using AWS Network Resources Playbook
 
 ## Introduction
